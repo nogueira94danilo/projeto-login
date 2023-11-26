@@ -7,7 +7,7 @@ tablet 768px até 992px
 desktop;992 até 1200px
 grandes telas;acima de 1200 px*/
 
-@media screen and (min-width:768px) and (max-width: 992px)
+@media screen and (min-width:700px) and (max-width: 992px)
 /*configuracoes para tablet*/
 
 {
@@ -17,8 +17,8 @@ grandes telas;acima de 1200 px*/
 
 
     section#login {
-        width: 90%;
-        height: 90%;
+        width: 95%;
+        height: 500px;
        
     }
     section#login > div#imagem {
@@ -32,7 +32,7 @@ grandes telas;acima de 1200 px*/
         width: 70%;
     }
     div.campo > input {
-        width: 90%;
+        width: 85%;
     }
    
 }
@@ -68,7 +68,10 @@ grandes telas;acima de 1200 px*/
         font-size: 1.2em;
     }
     div.campo > input {
-       width: 80%;
+        width: 85%;
+
+    
+      
        
       
     }
