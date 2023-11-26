@@ -17,7 +17,7 @@ grandes telas;acima de 1200 px*/
 
 
     section#login {
-        width: 80%;
+        width: 90%;
         height: 300px;
        
     }
@@ -68,7 +68,7 @@ grandes telas;acima de 1200 px*/
         font-size: 1.2em;
     }
     div.campo > input {
-       width: 88%;
+       width: 80%;
        
       
     }
